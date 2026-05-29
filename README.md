@@ -1,8 +1,9 @@
-```markdown
 # login-with-sso
 
 Hydro OJ 的 OpenID Connect (OIDC) 单点登录插件。  
 允许用户通过符合 OIDC 标准的身份提供者（如 Keycloak、Auth0、Azure AD、Dex 等）登录 Hydro。
+
+> 使用AIGC进行开发
 
 ## 安装
 
@@ -96,4 +97,3 @@ login-with-sso:
 
 与 Hydro 主项目一致：AGPL-3.0-or-later。  
 请遵守相应开源协议。
-```
